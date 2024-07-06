@@ -1,0 +1,7 @@
+POST http://localhost:5000/scrape
+Content-Type: application/json
+
+{
+    "url": "https://almanhaj.or.id/84056-jenis-jenis-ibadah-haji.html",
+    "num_words": 100
+}
